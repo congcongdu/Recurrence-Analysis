@@ -1,5 +1,5 @@
-# Advanced-Recursive-Analysis
-This is for "Advanced Recursive Analysis on The Dynamics of Complex Systems", Congcong Du, Yiming Ding, Zengru Di and Dahui Wang.
+# Recurrence-Analysis
+This is for "Revisit Recurrence Analysis on The Dynamics of Complex Systems", Congcong Du, Yiming Ding, Zengru Di and Dahui Wang.
 
 ### GetRosslerData.m
 You can get the time series of Rossler System through this file.
