@@ -7,7 +7,7 @@ You can get the time series of Rossler System through this file.
 ### RevisedRP.m
 Change the classic RP into the revised RP.
 
-### main.m
+### main.mlx
 Process classic systems and EEG data. You can get rRP, and some index proposed by our work(sum, RR, PF, and amplitude)
 
 ### ChaosDegree.m
