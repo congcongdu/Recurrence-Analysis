@@ -1,19 +1,15 @@
 # Recurrence-Analysis
 This is for "Revisit Recurrence Analysis on The Dynamics of Complex Systems", Congcong Du, Yiming Ding, Zengru Di and Dahui Wang.
 
-### GetRosslerData.m
-You can get the time series of Rossler System through this file.
-
-### RevisedRP.m
-Change the classic RP into the revised RP.
 
 ### main.mlx
 Process classic systems and EEG data. You can get rRP, and some index and all the figures. 
 
-### ChaosDegree.m
-This file is for calculating the chaos degree(CD).
+### pos_val.mat
+PF and Amp calculated from epilepsy data
 
-### LE.m
-This file is for calculating the largest Lyapunov exponent(LLE).
-
-ECG data used in main.mlx can be found at: https://doi.org/10.6084/m9.figshare.c.4560497.v1
+### about datasets
+#### EEG epilepsy data used can be found at: 
+https://www.researchgate.net/publication/308719109_EEG_Epilepsy_Datasets/link/57ecad4e08aebb1961ffb802/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19
+#### ECG data used in main.mlx can be found at:
+https://doi.org/10.6084/m9.figshare.c.4560497.v1
